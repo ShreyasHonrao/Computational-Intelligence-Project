@@ -42,7 +42,8 @@
    a) Overlaid graph of actual and predicated values of the stock <br> 
    b) Our performance parameter root mean square error(RMSE) <br> 
    c) Overlaid graph of actual and predicated Returns on daily basis of the stock<br>
-   d) Calculated the performance of R^2 and also ROoot Mean Square Error 
+   d) Calculated the performance of R^2 and also Mean Absolute Error
+
 
 
    
