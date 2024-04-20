@@ -33,6 +33,17 @@
    b) Our performance parameter root mean square error(RMSE) <br> 
    c) Overlaid graph of actual and predicated Returns on daily basis of the stock
 
+---
+> Steps for running the code of the LR Model
+1) Open the Google Colab link : [LR Google Colab Link](https://colab.research.google.com/drive/1CHMuFFseWD7Vemoq9CQMqKhjnZ34ChDQ) and you will be redirected to GOOGLE COLAB.
+2) Download the dataset given in our github repository and upload it on this Google Colab(as shared above).
+3) Start the code running sequentially .
+4) After running the entire model, you will get the following results:<br>
+   a) Overlaid graph of actual and predicated values of the stock <br> 
+   b) Our performance parameter root mean square error(RMSE) <br> 
+   c) Overlaid graph of actual and predicated Returns on daily basis of the stock<br>
+   d) Calculated the performance of R^2 and also ROoot Mean Square Error 
+
 
    
    
