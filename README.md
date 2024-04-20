@@ -11,9 +11,9 @@
    <br>
    You will get an error.
 4) To overcome this error, please run code sequentially starting from this code snippet ![image](https://github.com/ShreyasHonrao/Computational-Intelligence-Project/assets/99578509/5be0204a-7674-46ce-845a-2212ceacc950)
-5) After running the entire model, you will get the following results:
-   a) Overlaid graph of actual and predicated values of the stock
-   b) Our performance parameter root mean square error(RMSE)
+5) After running the entire model, you will get the following results:<br>
+   a) Overlaid graph of actual and predicated values of the stock <br> 
+   b) Our performance parameter root mean square error(RMSE) <br> 
    c) Overlaid graph of actual and predicated Returns on daily basis of the stock
 
 
