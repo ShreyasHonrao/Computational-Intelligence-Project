@@ -6,6 +6,9 @@
 2) Download the dataset given in our github repository and upload it on this Google Colab(as shared above).
 3) Start the code running sequentially but when you reached the code
     ![image](https://github.com/ShreyasHonrao/Computational-Intelligence-Project/assets/99578509/246b0bc0-4d53-4974-abc5-4bdcc5346b04)
+   and
+   ![image](https://github.com/ShreyasHonrao/Computational-Intelligence-Project/assets/99578509/54d5beb0-2648-492d-a2db-844f7d4d9a45)
+
    
    
 
